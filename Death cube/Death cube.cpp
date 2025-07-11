@@ -50,7 +50,7 @@ int main () {
 	std::cout << "Enter number :";
 	std::cin >> valeuble;
 
-	Cube cubic (int valeuble);
+	Cube cubic (valeuble);
 
 	cubic.Game();
 }
